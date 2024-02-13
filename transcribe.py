@@ -6,7 +6,7 @@ from util import load_json_file
 import itertools
 import preproc
 
-aai.settings.api_key = "add9609015a34dfcb7284f9781a2fd49"
+aai.settings.api_key = "REDACTED"
 transcriber = aai.Transcriber()
 
 def write_json(data, filename):
